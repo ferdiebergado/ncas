@@ -1,0 +1,35 @@
+// Import a Google Font
+// @import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+
+// Set your brand colors
+$purple: #8a4d76;
+$pink: #fa7c91;
+$brown: #757763;
+$blue: #2c7a92;
+$blue-light: #4a82db;
+$blue-lighter: #949cdd;
+$beige-light: #d0d1cd;
+$beige-lighter: #eff0eb;
+$red: #df005f;
+$green: #00aca1;
+
+// Update Bulma's global variables
+$family-sans-serif: "Open Sans", sans-serif;
+$grey-dark: $brown;
+$grey-light: $beige-light;
+$primary: $blue-light;
+$link: $blue-light;
+
+// Update some of Bulma's component variables
+$control-border-width: 1px;
+// $input-background-color: $beige-lighter;
+// $input-border-color: transparent;
+$input-shadow: none;
+$menu-item-active-background-color: $blue;
+$input-focus-box-shadow-size: 0 0 0 0;
+$input-focus-border-color: $blue-lighter;
+
+// Dropdown
+$dropdown-menu-min-width: 10rem;
